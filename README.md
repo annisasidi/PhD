@@ -6,5 +6,5 @@ PhD project Otago
 1. collate all lab notebooks into the Methods section
 1. Edit methods sections
 
-Chapter 1 - literature review
+Chapter 1 - theoretical framework
 Chapter 2 - 
